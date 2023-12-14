@@ -10,3 +10,5 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sokube&repo=aws-eks&show_owner=true&theme=cobalt)](https://github.com/sokube/aws-eks)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samiamoura&repo=gitops-training&show_owner=true&theme=synthwave)](https://github.com/samiamoura/gitops-training)
