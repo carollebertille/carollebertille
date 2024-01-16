@@ -3,17 +3,17 @@
 <p>
 Nice to meet you. Let me introduce myself in a few lines.
   <ul>
-    <li>👨‍🔧 I'm a <b> DevOps / Linux System Engineer</b></li>
+    <li>👨‍🔧 I'm a <b> DevOps Engineer / System Administrator</b></li>
     <li>📍 Based near <b>USA but looking for a full remote job in all USA  Area. I'm looking to move outside France asap.</b></li>
     <li>🏢 I'm working for <b>no one at the moment, looking for new opportunities !</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> 
-    <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform, Cloud...</b></li>
+    <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform, Cloud, Security ...</b></li>
     <li>📮 You can contact me directly here : <b>carolledevops@yahoo.com</b>
     
 
   </ul>
 Passionate IT engineer, I am always looking for new challenges.
-<br>For a few years now, I've been focusing on Linux System Administration as well as <b>containerization technologies</b>, the path of DevOps with <b>Infrastructure as Code</b>, <b>CI/CD pipelines</b>, <b>Configuration Management</b> and so on. 
+<br>For a few years now, I've been focusing on System Administrator as well as <b>containerization technologies</b>, the path of DevOps with <b>Infrastructure as Code</b>, <b>CI/CD pipelines</b>, <b>Configuration Management</b> and so on. 
 If you want to discuss about it, feel free to contact me.
 </p>
 
