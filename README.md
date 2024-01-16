@@ -19,7 +19,7 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/benjamin-boualam/" target="_blank"><img alt="Benjamin Boualam LinkedIn profile" src="https://github.com/carollebertille/carollebertille/blob/main/images/linkedin-button.png" width="13%"></a>
+  <a href="https://www.linkedin.com/in/Carolle-Matchum/" target="_blank"><img alt="Carolle Matchum LinkedIn profile" src="https://github.com/carollebertille/carollebertille/blob/main/images/linkedin-button.png" width="13%"></a>
 </p>
 
 ## 🖥️ My tech stacks :
