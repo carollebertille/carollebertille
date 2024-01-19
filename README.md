@@ -5,7 +5,7 @@ Nice to meet you. Let me introduce myself in a few lines.
   <ul>
     <li>👨‍🔧 I'm a <b> DevOps Engineer / System Administrator</b></li>
     <li>📍 Based near <b>USA but looking for a full remote job in all USA  Area. </b></li>
-    <li>🏢 I'm working for <b>no one at the moment, looking for new opportunities !</b></li>
+    <li>🏢 I'm looking for new opportunities !</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> 
     <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform, Cloud, Security ...</b></li>
     <li>📮 You can contact me directly here : <b>carolledevops@yahoo.com</b>
